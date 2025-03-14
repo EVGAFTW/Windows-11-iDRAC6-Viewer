@@ -10,7 +10,7 @@ Adding the required java security settings due to lack of specific TLS support.
 
 Included all required files including JRE so no manual installation is required. Replace with your own if you encounter issues.
 
-1. Open downloaded files directory in CMD
+1. Open downloaded files directory
 2. Double Click run.bat
 3. Type the IP address of the iDRAC6 controller.
 4. Enter the username of the iDRAC6 controller.
